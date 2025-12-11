@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Misiek Garage Katowice</title>
+<style>
+body {margin:0; font-family:sans-serif; background:#0f1113; color:#e6eef3; line-height:1.5;}
+header {padding:20px; text-align:center;}
+h1 {margin:0; font-size:24px;}
+.subtitle {color:#bfc7cd; margin-top:6px;}
+section {padding:20px; max-width:900px; margin:auto;}
+.card {background:#111317; padding:15px; margin:10px 0; border-radius:10px;}
+a.btn {display:inline-block; padding:10px 14px; margin-top:8px; background:#c9aa5f; color:#fff; text-decoration:none; border-radius:8px;}
+footer {text-align:center; padding:12px; color:#bfc7cd; font-size:13px;}
+</style>
+</head>
+<body>
+<header>
+<h1>Misiek Garage Katowice</h1>
+<div class="subtitle">Serwis • Samochody na sprzedaż • Usługi karoserii</div>
+</header>
+
+<section>
+<h2>O nas</h2>
+<p>Misiek Garage Katowice — profesjonalny serwis samochodowy i komis z pasją do detali. Specjalizujemy się w naprawach mechanicznych, blacharstwie i lakiernictwie oraz w sprzedaży starannie wyselekcjonowanych samochodów używanych.</p>
+</section>
+
+<section>
+<h2>Usługi</h2>
+<div class="card"><strong>Serwis mechaniczny:</strong> przeglądy, naprawy silnika, zawieszenia, wymiany oleju i części.</div>
+<div class="card"><strong>Karoseria & lakiernictwo:</strong> naprawy powypadkowe, prostowanie, lakierowanie, renowacje detali.</div>
+<div class="card"><strong>Sprzedaż samochodów:</strong> selekcja, sprawdzenie historii, przygotowanie dokumentów.</div>
+</section>
+
+<section>
+<h2>Kontakt</h2>
+<p>Adres: Katowice (dokładny adres)</p>
+<p>Telefon: <a href="tel:+48123456789" class="btn">+48 123 456 789</a></p>
+<p>Email: <a href="mailto:kontakt@misiekgarage.pl" class="btn">kontakt@misiekgarage.pl</a></p>
+</section>
+
+<footer>© Misiek Garage Katowice</footer>
+</body>
+</html>
